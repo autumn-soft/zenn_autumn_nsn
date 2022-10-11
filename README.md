@@ -20,7 +20,6 @@ Yahooニュースのカテゴリー別の記事のヘッドラインを取得す
 
 ## 開発者について
 ハンドルネーム：オータム西野  
-ホームページ：[https://www.autumn-soft.com](https://zenn.dev/autumn_nsn)  
 "zenn"のサイトのページ：[https://zenn.dev/autumn_nsn](https://zenn.dev/autumn_nsn)  
   
 以上
